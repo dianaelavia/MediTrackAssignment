@@ -302,21 +302,6 @@ BillSummary summary = BillSummary.fromBill(bill);
 // summary cannot be modified - no setters available
 ```
 
-## 📞 Support
-
-For questions or issues, feel free to:
-- Check the code comments
-- Review the test cases
-- Examine service layer implementations
-
-## 📄 License
-
-MIT License
-
-## 👤 Author
-
-Diana Elavia
-
 ---
 
 **MediTrack** - Building healthcare management systems the right way! 🏥
